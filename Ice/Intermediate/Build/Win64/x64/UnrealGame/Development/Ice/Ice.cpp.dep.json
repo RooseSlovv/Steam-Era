@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\desktop\\unreal projects\\ice\\intermediate\\source\\ice.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\desktop\\unreal projects\\ice\\intermediate\\build\\win64\\x64\\ice\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\desktop\\unreal projects\\ice\\intermediate\\build\\win64\\x64\\unrealgame\\development\\ice\\definitions.ice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

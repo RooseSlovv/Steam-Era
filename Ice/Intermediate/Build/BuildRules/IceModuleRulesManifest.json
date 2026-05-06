@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\DeskTOP\\Unreal Projects\\Ice\\Intermediate\\Source\\Ice.Build.cs",
+		"D:\\DeskTOP\\Unreal Projects\\Ice\\Intermediate\\Source\\Ice.Target.cs",
+		"D:\\DeskTOP\\Unreal Projects\\Ice\\Intermediate\\Source\\IceClient.Target.cs",
+		"D:\\DeskTOP\\Unreal Projects\\Ice\\Intermediate\\Source\\IceEditor.Target.cs",
+		"D:\\DeskTOP\\Unreal Projects\\Ice\\Intermediate\\Source\\IceServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
